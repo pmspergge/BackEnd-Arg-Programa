@@ -1,13 +1,13 @@
-//package com.portfolio.ms;
+package com.portfolio.ms;
 
-//import org.junit.jupiter.api.Test;
-//import org.springframework.boot.test.context.SpringBootTest;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
-//@SpringBootTest
-//class MsApplicationTests {
+@SpringBootTest
+class MsApplicationTests {
 
-//	@Test
-//	void contextLoads() {
-//	}
+	@Test
+	void contextLoads() {
+	}
 
-//}
+}
